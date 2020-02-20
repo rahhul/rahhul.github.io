@@ -1,4 +1,3 @@
-# Title
-Hello and welcome. 
+# Causality
 
-## Causality
+Hello and welcome. 
